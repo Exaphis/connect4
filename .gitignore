@@ -29,3 +29,7 @@
 
 # vim swap file
 *.swp
+
+.DS_Store
+.depend
+c4solver
